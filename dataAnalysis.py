@@ -67,7 +67,7 @@ plt.show()
 
 print()
 
-# Question 4: Relationship between Age + BMI and Diabetes
+# Question 4: How does the relationship between Age + BMI affect Diabetes?
 
 # Create pivot table for graph
 bmi_age_table = df.pivot_table(
