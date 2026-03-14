@@ -6,7 +6,7 @@ The dataset I analyzed is the Diabetes Dataset, which contains patient informati
 
 The purpose of creating this software was to analyze health-related factors that may contribute to diabetes, visualize patterns, and answer questions regarding correlations among several factors that could influence the likelihood of having diabetes.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=WDNVjYZ_XyA)
 
 # Data Analysis Results
 
